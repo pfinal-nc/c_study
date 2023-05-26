@@ -9,6 +9,7 @@
         "custom_functions.h": "c",
         "__availability": "c",
         "__config": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "inet.h": "c"
     }
 }
