@@ -4,6 +4,11 @@
         "__locale": "c",
         "string": "c",
         "string_view": "c",
-        "__string": "c"
+        "__string": "c",
+        "curl.h": "c",
+        "custom_functions.h": "c",
+        "__availability": "c",
+        "__config": "c",
+        "stdlib.h": "c"
     }
 }
